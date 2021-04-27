@@ -7,7 +7,6 @@
 
 
 This ansible role installs [Promscale](https://github.com/timescale/promscale#documentation) in a Debian environment. It has been tested for the following Debian versions:
-* Stretch
 * Buster
 
 This role has been generated using the [cookiecutter](https://github.com/cookiecutter/cookiecutter) tool, you can generate a similar role that fits your needs using the this [cookiecutter template](https://github.com/idealista/cookiecutter-ansible-role).
