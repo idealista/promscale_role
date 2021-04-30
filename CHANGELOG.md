@@ -6,6 +6,9 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a ch
 ## [Unreleased](https://github.com/idealista/promscale_role/tree/develop)
 ### Changed
 ### Added
-- *Initial release* @emepege
 ### Removed
 ### Fixed
+
+## [1.0.0](https://github.com/idealista/promscale_role/tree/1.0.0)
+### Added
+- *Initial release* @emepege
